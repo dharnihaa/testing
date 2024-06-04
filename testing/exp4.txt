@@ -14,8 +14,8 @@ public class App {
         WebElement email = driver.findElement(By.name("session_key"));
         WebElement password = driver.findElement(By.name("session_password"));
         WebElement button = driver.findElement(By.xpath("//button[@type='submit']"));
-        email.sendKeys("yokesshk@gmail.com");
-        password.sendKeys("yt09yoke");
+        email.sendKeys("727822tuio011@gmail.com");
+        password.sendKeys("Dharniha@06");
         button.click();
         // System.out.println(driver.getTitle());
         // System.out.println(driver.getClass())
